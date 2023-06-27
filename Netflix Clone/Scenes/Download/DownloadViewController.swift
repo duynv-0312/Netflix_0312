@@ -7,7 +7,7 @@
 
 import UIKit
 
-class DownloadViewController: BaseViewController, Bindable {
+final class DownloadViewController: BaseViewController, Bindable {
 
     var viewModel: DownloadViewModel!
 

@@ -7,7 +7,7 @@
 
 import UIKit
 
-class SearchViewController: BaseViewController, Bindable {
+final class SearchViewController: BaseViewController, Bindable {
 
     var viewModel: SearchViewModel!
 

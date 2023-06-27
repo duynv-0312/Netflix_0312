@@ -7,7 +7,7 @@
 
 import UIKit
 
-class UpcomingViewController: BaseViewController, Bindable {
+final class UpcomingViewController: BaseViewController, Bindable {
 
     var viewModel: UpcomingViewModel!
 
